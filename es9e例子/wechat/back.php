@@ -1,6 +1,6 @@
 <?php
 require_once "jssdk.php";
-$jssdk = new JSSDK("wx687e1afe359eb060", "a9f492c0eb3ea406247c9c6a7c213766");
+$jssdk = new JSSDK("", "");
 
 header('Content-type: application/json');
 ob_start();
